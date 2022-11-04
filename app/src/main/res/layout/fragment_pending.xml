@@ -6,10 +6,6 @@
     tools:context=".tabfragments.PendingFragment"
     android:orientation="vertical">
 
-    <!--<TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/PendingFragment" />-->
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recyclerview"
