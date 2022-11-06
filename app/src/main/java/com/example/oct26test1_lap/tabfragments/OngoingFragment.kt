@@ -52,26 +52,22 @@ class OngoingFragment : Fragment() {
 
 
 
-     /*   data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item1 ", "Arun","Flat No.1",1000,"kannur"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item2 ", "Anjana","Flat No.2",2000,"kollam"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item3 ", "Seena","Flat No.3",2000,"kannur"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item4 ", "Midhun","Flat No.22",1000,"alapuzha"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item5 ", "Alen","Flat No.11",500,"kollam"))*/
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item6 ", "Pradeep","House No.2",500,"kottayam"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item7 ", "Arun","House No.1",700,"alapuzha"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item8 ", "meenu","Flat No.177",1000,"kannur"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item9 ", "swathi","Flat No.571",300,"wayanad"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item10 ", "jacob","Flat No.114",1000,"wayanad"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item11", "soorya","Flat No.178",3050,"palakad"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item12", "james","Flat No.163",1000,"kannur"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item13", "jackson","Flat No.141",400,"thrissur"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item14", "titus","Flat No.13",1000,"kannur"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item15", "rintu","Flat No.114",4000,"thrissur"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item16", "anju","Flat No.11",8000,"kollam"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item17", "joshna","Flat No.13",2400,"idukki"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item18", "ambili","Flat No.187",600,"idukki"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item19", "remya","Flat No.177",2900,"idukki"))
-        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "Item20", "vishnu","Flat No.122",700,"kollam"))
+
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "Pradeep","House No.2",500,"kottayam","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "Arun","House No.1",700,"alapuzha","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "meenu","Flat No.177",1000,"kannur","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "swathi","Flat No.571",300,"wayanad","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "jacob","Flat No.114",1000,"wayanad","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "soorya","Flat No.178",3050,"palakad","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "james","Flat No.163",1000,"kannur","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "jackson","Flat No.141",400,"thrissur","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "titus","Flat No.13",1000,"kannur","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "rintu","Flat No.114",4000,"thrissur","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "anju","Flat No.11",8000,"kollam","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "joshna","Flat No.13",2400,"idukki","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "ambili","Flat No.187",600,"idukki","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "remya","Flat No.177",2900,"idukki","Ongoing"))
+        data.add(ItemsViewModel(R.drawable.ic_home_black_24dp, "", "vishnu","Flat No.122",700,"kollam","Ongoing"))
 
 
 

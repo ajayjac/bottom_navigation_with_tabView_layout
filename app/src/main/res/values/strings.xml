@@ -19,6 +19,17 @@
     <string name="Menu">Menu</string>
     <string name="this_is_report_fragment">This is Report Fragment</string>
     <string name="this_is_menu_fragment">This is Menu fragment</string>
+
+    <string-array name="Locations">
+        <item>Kollam</item>
+        <item>Idukki</item>
+        <item>Kottayam</item>
+        <item>Alapuzha</item>
+        <item>Thrissur</item>
+        <item>Kannur</item>
+        <item>Wayanad</item>
+    </string-array>
+    <string name="selected_item">Selected item:</string>
     <!-- TODO: Remove or change this placeholder text -->
 
 </resources>
